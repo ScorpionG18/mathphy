@@ -1,7 +1,7 @@
 /* EBBEN A FÁJLBAN TUDOD A SAJÁT ADATAIDAT MEGADNI. */
 window.MATHPHY_CONFIG = {
   // A teljes Calendly eseménylink, például: https://calendly.com/felhasznalo/maganora
-  calendlyUrl: "",
+  calendlyUrl: "https://calendly.com/kovacs-levente-szte/30min",
   // Opcionális kapcsolati e-mail (üresen hagyva nem jelenik meg)
   email: "",
   // Opcionális ár, például: "6 000 Ft / 60 perc"
